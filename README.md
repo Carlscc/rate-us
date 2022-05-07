@@ -12,10 +12,13 @@
 - [Framer Motion](https://www.framer.com/motion/) - A production-ready motion library for React.
 - [React Icons](https://react-icons.github.io/react-icons) - SVG react icons of popular icon packs eg. Font Awesome, Bootstrap.
 
+```
 
-##Demo
+## Demo:
 
--[See live](https://lucky-empanada-bc56fb.netlify.app/)
+[See live](https://lucky-empanada-bc56fb.netlify.app/)
+
+```
 
 
 ## Clone the repo:
