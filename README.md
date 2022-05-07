@@ -13,9 +13,12 @@
 - [React Icons](https://react-icons.github.io/react-icons) - SVG react icons of popular icon packs eg. Font Awesome, Bootstrap.
 
 
-## Quick Start
+##Demo
 
-Clone the repo
+-[See live](https://lucky-empanada-bc56fb.netlify.app/)
+
+
+## Clone the repo:
 
 ```
 
@@ -28,6 +31,7 @@ Install the dependencies and start the app:
 
 
 ## 📜  TODO
+
 * Add default rating
 * Clear previous rating
 * Add real-time validation for rating, disable submit button until a rating has been selected.
